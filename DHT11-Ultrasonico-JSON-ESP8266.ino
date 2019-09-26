@@ -3,8 +3,8 @@
 #include <ArduinoJson.h>
 #include <DHT.h>
 
-const char* ssid = "TELECABLE TRIPLE PLAY SJR";
-const char* password = "44478476";
+const char* ssid = "";
+const char* password = "";
 
 #define trigPin D6
 #define echoPin D5
